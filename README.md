@@ -2,6 +2,16 @@
 
 This repository describes a step-by-step pipeline for STARR-seq data analysis,
 developed in the Taipale group and intended for automation by HGI.
+## External dependencies
+
+### Sahu et al. (2022) reference implementation
+The original code used in Sahu et al. (2022) is publicly available on Zenodo:
+
+https://zenodo.org/records/5159644
+
+This repository does not re-host the Sahu et al. code.  
+Users should download it separately and set the local path via configuration
+(e.g. `SAHU_CODE_DIR` in `configs/config.yaml`) where required.
 
 ## Scope
 - STARR-seq activity quantification (RNA vs input)
