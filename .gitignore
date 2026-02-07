@@ -1,0 +1,23 @@
+# Sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.crai
+*.sam
+
+# QC outputs
+fastqc_results/
+multiqc_results/
+multiqc_data/
+*_fastqc.zip
+
+# Logs
+*.log
+logs/
+
+# OS / editor
+.DS_Store
