@@ -1,6 +1,4 @@
 # 05 — TSS identification about RPRE library
-## Reference implementation (Sahu et al.)
-
 TSSs were identified by mapping the TSO library back to the input library, using a strategy similar to that described by Sahu et al.
 
 ## Purpose
