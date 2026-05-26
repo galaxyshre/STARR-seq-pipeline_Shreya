@@ -1,7 +1,7 @@
 # 05 — TSS identification about RPRE library
 ## Reference implementation (Sahu et al.)
 
-The TSS identification by map the TSO library back to the input one, and have the similair strategy as Sahu's paper which is well described in that paper.
+TSSs were identified by mapping the TSO library back to the input library, using a strategy similar to that described by Sahu et al.
 
 ## Purpose
 Identify transcription start sites (TSSs) captured by template-switch (TS) libraries and associate TSS positions with inserts.
